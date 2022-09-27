@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="seila.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <h1>TOGURO</h1>
+    
+<img src="427d3cef78762937c67926bc01da34fc.jpg" widht="500" height="500"> 
+<p> Toguro, Toguro é um homen sabio que não tolera o preconceito</p>
+
+    </header>
+<h1>STRONDA</h1>
+<img src="download (2).jpeg" hidht="500" height="500">
+<p>Stronda é um marombeiro</p>
+<h1> PAULINHO O LOKO</h1>
+<img src="images.jpeg" hidht="500" height="500">
+<p>Paulo, conhecido mais como paulinho o loko é um lunatico louco homicida, procurado por todos os paises onde ja passou.</p>
+<p>tome cuidado ele fugiu do hospicio onde estava internado</p>
+
+
+</body>
+</html>
